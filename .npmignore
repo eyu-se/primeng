@@ -5,10 +5,10 @@
 /aot
 
 # source
-src
+#src
 
 # test
-e2e
+#e2e
 karma.conf.js
 protractor.conf.js
 *.spec.d.ts
@@ -18,7 +18,7 @@ protractor.conf.js
 *.spec.ngsummary.json
 
 # dependencies
-node_modules
+#node_modules
 
 # IDEs and editors
 /.idea
